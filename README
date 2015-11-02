@@ -1,0 +1,7 @@
+TCP Messaging Application using Twisted
+Written in Python
+
+This is a simple application that utilizes the TCP protocol for sending command line messages across users.
+User can broadcast message to all online users. Users can also send a private message for a specific user.
+
+(c) John Michael Gerona
